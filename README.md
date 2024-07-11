@@ -1,3 +1,4 @@
+![Screenshot 2024-07-11 200848](https://github.com/vijaychandra1910/weather_webapp/assets/138502362/9a4c04c0-304c-4f5d-ab98-04d528e55ceb)
 
 
 # Weather Web Application
