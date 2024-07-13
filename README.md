@@ -29,7 +29,7 @@ A simple weather web application that allows users to check the current weather 
 
 1. Clone the repository:
 
-   ```bash
+   ``bash
    git clone https://github.com/vijaychandra1910/weather-webapp.git
    ```
 
